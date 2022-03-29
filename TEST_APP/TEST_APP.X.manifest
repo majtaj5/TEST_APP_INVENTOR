@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="TEST_APP" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{df74ed67-54bd-43ad-83a5-75ef1936627d}" progid="TEST_APP.StandardAddInServer" threadingModel="Both" name="TEST_APP.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="TEST_APP.dll" hashalg="SHA1"></file>
+
+</assembly>

@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 26.0-->
+  <ClassId>{df74ed67-54bd-43ad-83a5-75ef1936627d}</ClassId>
+  <ClientId>{df74ed67-54bd-43ad-83a5-75ef1936627d}</ClientId>
+  <DisplayName>TEST_APP</DisplayName>
+  <Description>TEST_APP</Description>
+  <Assembly>TEST_APP.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>25..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
